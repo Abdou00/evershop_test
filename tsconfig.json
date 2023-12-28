@@ -3,7 +3,7 @@
     "baseUrl": ".",
     "paths": {
       "@components/*": [
-        "./themes/<Your Theme Folder>/components/*",
+        "./themes/custom-theme/components/*",
         "./node_modules/@evershop/evershop/src/components/*"
       ],
       "@components-origin/*": [

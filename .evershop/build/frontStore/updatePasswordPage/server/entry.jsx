@@ -13,10 +13,10 @@ Area.defaultProps.components = {
       sortOrder: 10,
       component: require('/Users/samba/Documents/Dev/NodeJS/demo-test/node_modules/@evershop/evershop/src/modules/checkout/pages/frontStore/all/MiniCart.jsx')
     },
-    L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL01vYmlsZU1lbnUuanN4: {
-      id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL01vYmlsZU1lbnUuanN4',
+    L3RoZW1lcy9jdXN0b20tdGhlbWUvcGFnZXMvYWxsL01vYmlsZU1lbnUuanN4: {
+      id: 'L3RoZW1lcy9jdXN0b20tdGhlbWUvcGFnZXMvYWxsL01vYmlsZU1lbnUuanN4',
       sortOrder: 50,
-      component: require('/Users/samba/Documents/Dev/NodeJS/demo-test/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/MobileMenu.jsx')
+      component: require('/Users/samba/Documents/Dev/NodeJS/demo-test/themes/custom-theme/pages/all/MobileMenu.jsx')
     },
     L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY3VzdG9tZXIvcGFnZXMvZnJvbnRTdG9yZS9hbGwvVXNlckljb24uanN4: {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY3VzdG9tZXIvcGFnZXMvZnJvbnRTdG9yZS9hbGwvVXNlckljb24uanN4',
@@ -34,6 +34,11 @@ Area.defaultProps.components = {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY3VzdG9tZXIvcGFnZXMvZnJvbnRTdG9yZS91cGRhdGVQYXNzd29yZFBhZ2UvVXBkYXRlUGFzc3dvcmRGb3JtLmpzeA==',
       sortOrder: 10,
       component: require('/Users/samba/Documents/Dev/NodeJS/demo-test/node_modules/@evershop/evershop/src/modules/customer/pages/frontStore/updatePasswordPage/UpdatePasswordForm.jsx')
+    },
+    L3RoZW1lcy9jdXN0b20tdGhlbWUvcGFnZXMvYWxsL05ld3NsZXR0ZXIuanN4: {
+      id: 'L3RoZW1lcy9jdXN0b20tdGhlbWUvcGFnZXMvYWxsL05ld3NsZXR0ZXIuanN4',
+      sortOrder: 50,
+      component: require('/Users/samba/Documents/Dev/NodeJS/demo-test/themes/custom-theme/pages/all/Newsletter.jsx')
     }
   },
   footer: {
@@ -51,10 +56,10 @@ Area.defaultProps.components = {
     }
   },
   body: {
-    'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0xheW91dC5qc3g=': {
-      id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0xheW91dC5qc3g=',
+    'L3RoZW1lcy9jdXN0b20tdGhlbWUvcGFnZXMvYWxsL0xheW91dC5qc3g=': {
+      id: 'L3RoZW1lcy9jdXN0b20tdGhlbWUvcGFnZXMvYWxsL0xheW91dC5qc3g=',
       sortOrder: 1,
-      component: require('/Users/samba/Documents/Dev/NodeJS/demo-test/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Layout.jsx')
+      component: require('/Users/samba/Documents/Dev/NodeJS/demo-test/themes/custom-theme/pages/all/Layout.jsx')
     },
     'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL05vdGlmaWNhdGlvbi5qc3g=': {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL05vdGlmaWNhdGlvbi5qc3g=',
@@ -63,15 +68,15 @@ Area.defaultProps.components = {
     }
   },
   header: {
-    L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0xvZ28uanN4: {
-      id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0xvZ28uanN4',
-      sortOrder: 1,
-      component: require('/Users/samba/Documents/Dev/NodeJS/demo-test/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Logo.jsx')
-    },
-    L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL01lbnUuanN4: {
-      id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL01lbnUuanN4',
+    L3RoZW1lcy9jdXN0b20tdGhlbWUvcGFnZXMvYWxsL0xvZ28uanN4: {
+      id: 'L3RoZW1lcy9jdXN0b20tdGhlbWUvcGFnZXMvYWxsL0xvZ28uanN4',
       sortOrder: 5,
-      component: require('/Users/samba/Documents/Dev/NodeJS/demo-test/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Menu.jsx')
+      component: require('/Users/samba/Documents/Dev/NodeJS/demo-test/themes/custom-theme/pages/all/Logo.jsx')
+    },
+    L3RoZW1lcy9jdXN0b20tdGhlbWUvcGFnZXMvYWxsL01lbnUuanN4: {
+      id: 'L3RoZW1lcy9jdXN0b20tdGhlbWUvcGFnZXMvYWxsL01lbnUuanN4',
+      sortOrder: 1,
+      component: require('/Users/samba/Documents/Dev/NodeJS/demo-test/themes/custom-theme/pages/all/Menu.jsx')
     }
   }
 } 
